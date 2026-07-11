@@ -1,0 +1,442 @@
+Oct 14, 2024 11:47:58 AM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 14, 2024 11:48:08 AM org.example.ChatServer removeUser
+INFO: User 'a' removed.
+Oct 14, 2024 11:48:25 AM org.example.ChatServer addUser
+INFO: User 'a' added.
+Oct 14, 2024 11:53:45 AM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 14, 2024 11:53:57 AM org.example.ChatServer broadcastImage
+INFO: Image sent: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 11.41.11 PM.png
+Oct 14, 2024 11:55:13 AM org.example.ChatServer broadcastImage
+INFO: Image sent: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 11.41.11 PM.png
+Oct 14, 2024 11:56:09 AM org.example.ChatServer broadcastImage
+INFO: Image sent: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 11.42.31 PM.png
+Oct 14, 2024 11:56:28 AM org.example.ChatServer broadcastImage
+INFO: Image sent: /Users/suyashmishra/Desktop/Screenshot 2024-10-10 at 6.29.34 PM.png
+Oct 14, 2024 11:56:36 AM org.example.ChatServer broadcastImage
+INFO: Image sent: /Users/suyashmishra/Desktop/Screenshot 2024-10-02 at 2.40.46 PM.png
+Oct 14, 2024 11:57:37 AM org.example.ChatServer broadcastImage
+INFO: Image sent: /Users/suyashmishra/Desktop/Screenshot 2024-10-02 at 1.25.27 PM.png
+Oct 14, 2024 11:57:44 AM org.example.ChatServer broadcastImage
+INFO: Image sent: /Users/suyashmishra/Desktop/Screenshot 2024-10-02 at 10.15.10 PM.png
+Oct 14, 2024 12:01:09 PM org.example.ChatServer broadcastImage
+INFO: Image sent: /Users/suyashmishra/Desktop/Screenshot 2024-10-02 at 1.00.27 PM.png
+Oct 14, 2024 12:03:08 PM org.example.ChatServer broadcastImage
+INFO: Image sent: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 3.44.21 PM.png
+Oct 14, 2024 12:03:36 PM org.example.ChatServer broadcastImage
+INFO: Image sent: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 3.17.37 PM.png
+Oct 14, 2024 12:05:11 PM org.example.ChatServer broadcastImage
+INFO: Image sent: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 11.42.31 PM.png
+Oct 14, 2024 12:05:19 PM org.example.ChatServer broadcastImage
+INFO: Image sent: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 3.17.29 PM.png
+Oct 14, 2024 12:05:22 PM org.example.ChatServer broadcastImage
+INFO: Image sent: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 11.42.31 PM.png
+Oct 14, 2024 12:06:04 PM org.example.ChatServer broadcastImage
+INFO: Image sent: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 3.44.21 PM.png
+Oct 14, 2024 12:06:23 PM org.example.ChatServer broadcastImage
+INFO: Image sent: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 3.17.29 PM.png
+Oct 14, 2024 12:12:59 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 14, 2024 12:13:37 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 14, 2024 12:13:41 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 14, 2024 12:13:42 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 14, 2024 12:13:42 PM org.example.ChatServer lambda$startServer$0
+WARNING: Server error: Address already in use
+Oct 14, 2024 12:14:40 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 14, 2024 12:14:40 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 14, 2024 12:15:08 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 14, 2024 12:15:09 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 14, 2024 12:15:09 PM org.example.ChatServer lambda$startServer$0
+WARNING: Server error: Address already in use
+Oct 14, 2024 12:15:12 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 14, 2024 12:15:13 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 14, 2024 12:15:13 PM org.example.ChatServer lambda$startServer$0
+WARNING: Server error: Address already in use
+Oct 14, 2024 12:15:14 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 14, 2024 12:15:17 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 14, 2024 12:15:17 PM org.example.ChatServer lambda$startServer$0
+WARNING: Server error: Address already in use
+Oct 14, 2024 12:17:59 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 14, 2024 12:18:00 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 14, 2024 12:19:12 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 14, 2024 12:19:18 PM org.example.ChatServer broadcastImage
+INFO: Image sent: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 3.17.29 PM.png
+Oct 14, 2024 12:21:12 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 14, 2024 12:21:19 PM org.example.ChatServer broadcastImage
+INFO: Image sent: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 11.42.31 PM.png
+Oct 14, 2024 12:24:00 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 14, 2024 12:24:08 PM org.example.ChatServer broadcastImage
+INFO: Image sent: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 11.42.31 PM.png
+Oct 14, 2024 12:27:31 PM org.example.ChatServer broadcastImage
+INFO: Image sent: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 11.42.31 PM.png
+Oct 14, 2024 12:28:26 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 14, 2024 12:33:00 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 14, 2024 1:06:47 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 14, 2024 1:07:10 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 14, 2024 1:08:08 PM org.example.ChatServer broadcastImage
+INFO: Image sent: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 3.44.21 PM.png
+Oct 14, 2024 1:08:08 PM org.example.ChatServer broadcastImage
+INFO: Image sent: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 3.44.21 PM.png
+Oct 14, 2024 1:11:51 PM org.example.ChatServer broadcastImage
+INFO: Image sent: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 11.42.31 PM.png
+Oct 14, 2024 1:11:51 PM org.example.ChatServer broadcastImage
+INFO: Image sent: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 11.42.31 PM.png
+Oct 14, 2024 1:11:59 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 14, 2024 2:48:47 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 14, 2024 2:49:41 PM org.example.ChatServer addUser
+INFO: User 'suyash' added.
+Oct 14, 2024 2:50:19 PM org.example.ChatServer broadcastImage
+INFO: Image sent: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 11.42.31 PM.png
+Oct 14, 2024 2:50:19 PM org.example.ChatServer broadcastImage
+INFO: Image sent: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 11.42.31 PM.png
+Oct 14, 2024 2:50:48 PM org.example.ChatServer broadcastImage
+INFO: Image sent: /Users/suyashmishra/Desktop/Screenshot 2024-10-02 at 1.00.36 PM.png
+Oct 14, 2024 2:50:48 PM org.example.ChatServer broadcastImage
+INFO: Image sent: /Users/suyashmishra/Desktop/Screenshot 2024-10-02 at 1.00.36 PM.png
+Oct 14, 2024 2:52:58 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 14, 2024 2:53:01 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 14, 2024 2:53:01 PM org.example.ChatServer lambda$startServer$0
+WARNING: Server error: Address already in use
+Oct 14, 2024 2:53:03 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 14, 2024 2:53:04 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 14, 2024 2:53:04 PM org.example.ChatServer lambda$startServer$0
+WARNING: Server error: Address already in use
+Oct 14, 2024 2:53:06 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 14, 2024 2:53:11 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 14, 2024 2:53:11 PM org.example.ChatServer lambda$startServer$0
+WARNING: Server error: Address already in use
+Oct 14, 2024 2:53:23 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 14, 2024 2:53:25 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 14, 2024 2:53:25 PM org.example.ChatServer lambda$startServer$0
+WARNING: Server error: Address already in use
+Oct 14, 2024 2:57:03 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 14, 2024 3:00:45 PM org.example.ChatServer$AddUserAction actionPerformed
+WARNING: Failed to add user (username/password empty).
+Oct 14, 2024 3:38:56 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 14, 2024 3:39:57 PM org.example.ChatServer broadcastImage
+INFO: Image sent: /Users/suyashmishra/Desktop/Screenshot 2024-10-02 at 1.00.27 PM.png
+Oct 14, 2024 3:39:57 PM org.example.ChatServer broadcastImage
+INFO: Image sent: /Users/suyashmishra/Desktop/Screenshot 2024-10-02 at 1.00.27 PM.png
+Oct 15, 2024 3:12:57 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 15, 2024 3:12:57 PM org.example.ChatServer lambda$startServer$0
+WARNING: Server error: Address already in use
+Oct 15, 2024 3:13:03 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 15, 2024 3:13:04 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 15, 2024 3:18:22 PM org.example.ChatServer broadcastImage
+INFO: Image sent: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 11.41.11 PM.png
+Oct 15, 2024 3:18:22 PM org.example.ChatServer broadcastImage
+INFO: Image sent: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 11.41.11 PM.png
+Oct 15, 2024 3:42:40 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 15, 2024 4:47:24 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 15, 2024 4:49:45 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 15, 2024 4:49:47 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 15, 2024 4:49:47 PM org.example.ChatServer lambda$startServer$0
+WARNING: Server error: Address already in use
+Oct 15, 2024 4:49:48 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 15, 2024 4:49:49 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 15, 2024 4:49:49 PM org.example.ChatServer lambda$startServer$0
+WARNING: Server error: Address already in use
+Oct 15, 2024 4:49:50 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 15, 2024 4:49:52 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 15, 2024 4:49:52 PM org.example.ChatServer lambda$startServer$0
+WARNING: Server error: Address already in use
+Oct 15, 2024 4:49:54 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 15, 2024 4:49:55 PM org.example.ChatServer$AddUserAction actionPerformed
+WARNING: Failed to add user (username/password empty).
+Oct 15, 2024 4:49:56 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 15, 2024 4:49:56 PM org.example.ChatServer lambda$startServer$0
+WARNING: Server error: Address already in use
+Oct 15, 2024 4:49:57 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 15, 2024 4:50:10 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 15, 2024 4:50:10 PM org.example.ChatServer lambda$startServer$0
+WARNING: Server error: Address already in use
+Oct 15, 2024 4:50:35 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 16, 2024 9:48:46 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 16, 2024 10:05:45 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 16, 2024 10:05:46 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 16, 2024 10:05:46 PM org.example.ChatServer lambda$startServer$1
+WARNING: Server error: Address already in use
+Oct 16, 2024 10:05:52 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 16, 2024 10:08:33 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 16, 2024 10:11:14 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 16, 2024 10:11:53 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 16, 2024 10:11:59 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 16, 2024 10:11:59 PM org.example.ChatServer lambda$startServer$0
+WARNING: Server error: Address already in use
+Oct 17, 2024 1:39:11 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 2:07:14 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 2:28:37 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 2:31:08 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 2:32:41 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 2:38:01 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 2:39:27 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 2:41:52 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 2:42:14 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 2:43:06 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 2:43:47 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 2:44:41 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 17, 2024 2:44:42 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 2:44:42 PM org.example.ChatServer lambda$startServer$0
+WARNING: Server error: Address already in use
+Oct 17, 2024 2:44:51 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 2:46:10 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 2:47:02 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 2:47:25 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 2:53:29 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 2:53:35 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 17, 2024 2:53:35 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 2:53:35 PM org.example.ChatServer lambda$startServer$0
+WARNING: Server error: Address already in use
+Oct 17, 2024 2:53:38 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 17, 2024 2:53:39 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 2:53:39 PM org.example.ChatServer lambda$startServer$0
+WARNING: Server error: Address already in use
+Oct 17, 2024 2:54:29 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 3:16:09 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 3:16:18 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 17, 2024 3:19:48 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 3:23:36 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 3:28:47 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 17, 2024 3:29:03 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 3:32:53 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 17, 2024 3:32:55 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 3:32:55 PM org.example.ChatServer lambda$startServer$0
+WARNING: Server error: Address already in use
+Oct 17, 2024 3:35:55 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 17, 2024 3:35:56 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 3:35:56 PM org.example.ChatServer lambda$startServer$0
+WARNING: Server error: Address already in use
+Oct 17, 2024 3:37:04 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 17, 2024 3:37:05 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 3:37:05 PM org.example.ChatServer lambda$startServer$0
+WARNING: Server error: Address already in use
+Oct 17, 2024 3:37:29 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 17, 2024 3:37:29 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 3:37:29 PM org.example.ChatServer lambda$startServer$0
+WARNING: Server error: Address already in use
+Oct 17, 2024 3:37:55 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 17, 2024 3:37:56 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 3:37:56 PM org.example.ChatServer lambda$startServer$0
+WARNING: Server error: Address already in use
+Oct 17, 2024 3:38:35 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 3:43:08 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 3:49:37 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 3:49:48 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 17, 2024 3:50:55 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 3:53:24 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 3:54:11 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 17, 2024 3:54:12 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 3:54:12 PM org.example.ChatServer lambda$startServer$0
+WARNING: Server error: Address already in use
+Oct 17, 2024 3:54:19 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 3:54:34 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 3:54:51 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 3:55:13 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 3:58:18 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 4:02:42 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 4:03:45 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 4:04:51 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 4:05:00 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 4:05:23 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 4:09:36 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 4:12:10 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 4:12:51 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 17, 2024 4:14:17 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 4:19:01 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 17, 2024 4:19:02 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 4:19:02 PM org.example.ChatServer lambda$startServer$0
+WARNING: Server error: Address already in use
+Oct 17, 2024 4:19:10 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 17, 2024 4:19:38 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 4:56:34 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 4:57:59 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 17, 2024 4:58:00 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 4:58:00 PM org.example.ChatServer lambda$startServer$0
+WARNING: Server error: Address already in use
+Oct 17, 2024 4:58:07 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 17, 2024 4:58:14 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 4:58:49 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 17, 2024 4:58:49 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 4:58:49 PM org.example.ChatServer lambda$startServer$0
+WARNING: Server error: Address already in use
+Oct 17, 2024 4:58:58 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 4:59:21 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 17, 2024 4:59:29 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 5:03:01 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 5:03:16 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 5:03:50 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 5:04:27 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 17, 2024 5:04:33 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 5:05:01 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 17, 2024 5:05:16 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 5:05:41 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 17, 2024 5:18:05 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 19, 2024 12:14:49 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 19, 2024 12:14:57 PM org.example.ChatServer broadcastImage
+INFO: Image sent: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 3.17.29 PM.png
+Oct 19, 2024 12:59:16 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 19, 2024 12:59:30 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 19, 2024 1:03:31 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 19, 2024 1:09:24 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 19, 2024 1:09:36 PM org.example.ChatServer stopServer
+INFO: Chat server stopped.
+Oct 19, 2024 1:10:02 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 19, 2024 1:10:02 PM org.example.ChatServer lambda$startServer$0
+WARNING: Server error: Address already in use
+Oct 19, 2024 3:06:55 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 19, 2024 3:11:58 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 19, 2024 3:39:13 PM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 22, 2024 1:25:18 AM org.example.ChatServer startServer
+INFO: Chat server started.
+Oct 22, 2024 8:54:11 AM org.example.ChatServer startServer
+INFO: Chat server started.

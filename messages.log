@@ -1,0 +1,168 @@
+Oct 14, 2024 11:19:31 AM org.example.ChatServer$ClientHandler run
+INFO: user1 : eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.K9YkpyerKR_TsEj4HelqU_qm5A2-vKMQNkCbisu-4bI hi
+Oct 14, 2024 11:20:00 AM org.example.ChatServer$ClientHandler run
+INFO: user2 : eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMiJ9.DaGKW-uI_1vZwA1Vb3yekX2nesvntMglnAclt9O9NUU hello
+Oct 14, 2024 11:25:24 AM org.example.ChatServer$ClientHandler run
+INFO: user1 : eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.iQ2mlp4dPADjESa393SxCVk9UUWpG8CDr7D01MZzyyI hi
+Oct 14, 2024 11:25:42 AM org.example.ChatServer$ClientHandler run
+INFO: user2 : eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMiJ9.6addtvWkIoU3KIMLOruKnGHWjXTq5TCu1K3RZqkC_HI hi
+Oct 14, 2024 11:27:41 AM org.example.ChatServer$ClientHandler run
+INFO: user2 : eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMiJ9.6addtvWkIoU3KIMLOruKnGHWjXTq5TCu1K3RZqkC_HI helllll
+Oct 14, 2024 11:27:46 AM org.example.ChatServer$ClientHandler run
+INFO: user1 : eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.iQ2mlp4dPADjESa393SxCVk9UUWpG8CDr7D01MZzyyI hi
+Oct 14, 2024 11:30:29 AM org.example.ChatServer$ClientHandler run
+INFO: user1 : eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.fuJCt8025JB3zHShOvetSmNapy9kgws1QSjPsmJovsQ heelo
+Oct 14, 2024 11:30:35 AM org.example.ChatServer$ClientHandler run
+INFO: a : eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhIn0.bPQYvekqiGpeFKFNNPGBLhnqbS5gphHo1k60zOaRsH8 hi
+Oct 14, 2024 11:30:42 AM org.example.ChatServer$ClientHandler run
+INFO: a : eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhIn0.bPQYvekqiGpeFKFNNPGBLhnqbS5gphHo1k60zOaRsH8 how are you
+Oct 14, 2024 11:38:08 AM org.example.ChatServer$ClientHandler run
+INFO: user1 : eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.I1m2AuCVF8KZhx2jSrYiOQw6k_YvA9dPKkOmM2HLVFk hi
+Oct 14, 2024 11:38:18 AM org.example.ChatServer$ClientHandler run
+INFO: user1 : eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.I1m2AuCVF8KZhx2jSrYiOQw6k_YvA9dPKkOmM2HLVFk hi
+Oct 14, 2024 11:53:57 AM org.example.ChatServer$ClientHandler run
+INFO: user1 sent an image: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 11.41.11 PM.png
+Oct 14, 2024 11:55:13 AM org.example.ChatServer$ClientHandler run
+INFO: user1 sent an image: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 11.41.11 PM.png
+Oct 14, 2024 11:56:36 AM org.example.ChatServer$ClientHandler run
+INFO: user1 sent an image: /Users/suyashmishra/Desktop/Screenshot 2024-10-02 at 2.40.46 PM.png
+Oct 14, 2024 11:56:44 AM org.example.ChatServer$ClientHandler run
+INFO: user1 sent a message: hi
+Oct 14, 2024 11:57:37 AM org.example.ChatServer$ClientHandler run
+INFO: user1 sent an image: /Users/suyashmishra/Desktop/Screenshot 2024-10-02 at 1.25.27 PM.png
+Oct 14, 2024 11:57:44 AM org.example.ChatServer$ClientHandler run
+INFO: user1 sent an image: /Users/suyashmishra/Desktop/Screenshot 2024-10-02 at 10.15.10 PM.png
+Oct 14, 2024 12:01:09 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent an image: /Users/suyashmishra/Desktop/Screenshot 2024-10-02 at 1.00.27 PM.png
+Oct 14, 2024 12:03:08 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent an image: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 3.44.21 PM.png
+Oct 14, 2024 12:03:42 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent a message: gi
+Oct 14, 2024 12:03:49 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent a message: hi
+Oct 14, 2024 12:05:11 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent an image: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 11.42.31 PM.png
+Oct 14, 2024 12:05:19 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent an image: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 3.17.29 PM.png
+Oct 14, 2024 12:06:04 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent an image: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 3.44.21 PM.png
+Oct 14, 2024 12:06:23 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent an image: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 3.17.29 PM.png
+Oct 14, 2024 12:08:42 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent a message: user
+Oct 14, 2024 12:11:31 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent a message: hi
+Oct 14, 2024 12:14:17 PM org.example.ChatServer$ClientHandler run
+INFO: user1 : eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.ARXQ3QBO54LPoUhPljdRgFnsjIKIydADDCtCcj8vQgA hi
+Oct 14, 2024 12:14:20 PM org.example.ChatServer$ClientHandler run
+INFO: user1 : eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.ARXQ3QBO54LPoUhPljdRgFnsjIKIydADDCtCcj8vQgA SEND_IMAGE /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 11.42.31 PM.png
+Oct 14, 2024 12:14:48 PM org.example.ChatServer$ClientHandler run
+INFO: user1 : eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.IKvC34T5F-7CTU5huk1cvPWyJ2CBixITEHbERsedJPg SEND_IMAGE /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 3.44.21 PM.png
+Oct 14, 2024 12:15:36 PM org.example.ChatServer$ClientHandler run
+INFO: user1 : eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.EloKTQOdR0JeggU0rDxu1Od-TnqAHgtAkFQeXWSZXqc SEND_IMAGE /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 11.42.31 PM.png
+Oct 14, 2024 12:18:07 PM org.example.ChatServer$ClientHandler run
+INFO: user1 : eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.8IvuIvwTjtEbnXU95RxhDUsYRRtdeEtmb4vO691-Akk SEND_IMAGE /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 11.42.31 PM.png
+Oct 14, 2024 12:19:18 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent an image: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 3.17.29 PM.png
+Oct 14, 2024 12:21:19 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent an image: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 11.42.31 PM.png
+Oct 14, 2024 12:24:08 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent an image: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 11.42.31 PM.png
+Oct 14, 2024 12:27:12 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent a message: hi
+Oct 14, 2024 12:27:27 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent a message: hi
+Oct 14, 2024 12:27:31 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent an image: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 11.42.31 PM.png
+Oct 14, 2024 1:07:36 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent a message: hi
+Oct 14, 2024 1:07:40 PM org.example.ChatServer$ClientHandler run
+INFO: user2 sent a message: hello
+Oct 14, 2024 1:07:46 PM org.example.ChatServer$ClientHandler run
+INFO: user2 sent a message: This is Suyash
+Oct 14, 2024 1:07:57 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent a message: This is Not Suyash
+Oct 14, 2024 1:08:08 PM org.example.ChatServer$ClientHandler run
+INFO: user2 sent an image: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 3.44.21 PM.png
+Oct 14, 2024 1:09:44 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent a message: suyash
+Oct 14, 2024 1:09:58 PM org.example.ChatServer$ClientHandler run
+INFO: user2 sent a message: hello
+Oct 14, 2024 1:10:12 PM org.example.ChatServer$ClientHandler run
+INFO: user2 sent a message: hello
+Oct 14, 2024 1:10:44 PM org.example.ChatServer$ClientHandler run
+INFO: user2 sent a message: suyash
+Oct 14, 2024 1:11:41 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent a message: Suyash
+Oct 14, 2024 1:12:53 PM org.example.ChatServer$ClientHandler run
+INFO: user2 sent a message: youl
+Oct 14, 2024 1:12:54 PM org.example.ChatServer$ClientHandler run
+INFO: user2 sent a message: hdkfhkjh
+Oct 14, 2024 1:12:55 PM org.example.ChatServer$ClientHandler run
+INFO: user2 sent a message: hjshgdkjfhas
+Oct 14, 2024 1:12:57 PM org.example.ChatServer$ClientHandler run
+INFO: user2 sent a message: hkjhdgskjashdl
+Oct 14, 2024 1:12:59 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent a message: klajsgdhkgds
+Oct 14, 2024 1:13:01 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent a message: kjhkajshgdh
+Oct 14, 2024 1:13:03 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent a message: kjahskjdgj
+Oct 14, 2024 1:18:17 PM org.example.ChatServer$ClientHandler run
+INFO: user2 sent a message: hello
+Oct 14, 2024 1:18:22 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent a message: This is suyash
+Oct 14, 2024 2:50:10 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent a message: hi
+Oct 14, 2024 2:50:14 PM org.example.ChatServer$ClientHandler run
+INFO: suyash sent a message: hi
+Oct 14, 2024 2:50:19 PM org.example.ChatServer$ClientHandler run
+INFO: suyash sent an image: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 11.42.31 PM.png
+Oct 14, 2024 3:39:57 PM org.example.ChatServer$ClientHandler run
+INFO: user2 sent an image: /Users/suyashmishra/Desktop/Screenshot 2024-10-02 at 1.00.27 PM.png
+Oct 14, 2024 3:40:02 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent a message: hi
+Oct 14, 2024 3:40:04 PM org.example.ChatServer$ClientHandler run
+INFO: user2 sent a message: hi
+Oct 14, 2024 3:40:07 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent a message: hi
+Oct 14, 2024 3:40:11 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent a message: hu
+Oct 15, 2024 3:18:19 PM org.example.ChatServer$ClientHandler run
+INFO: user2 sent a message: hi
+Oct 15, 2024 3:18:22 PM org.example.ChatServer$ClientHandler run
+INFO: user2 sent an image: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 11.41.11 PM.png
+Oct 15, 2024 4:51:19 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent a message: hi
+Oct 15, 2024 4:51:52 PM org.example.ChatServer$ClientHandler run
+INFO: user2 sent a message: hi
+Oct 16, 2024 10:11:45 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent a message: hi
+Oct 16, 2024 10:11:56 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent a message: hi
+Oct 17, 2024 1:39:34 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent a message: hi
+Oct 17, 2024 1:51:50 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent a message: hi
+Oct 17, 2024 4:57:24 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent a message: hi
+Oct 17, 2024 4:57:27 PM org.example.ChatServer$ClientHandler run
+INFO: user2 sent a message: hi
+Oct 17, 2024 5:03:59 PM org.example.ChatServer$ClientHandler run
+INFO: user2 sent a message: hi
+Oct 17, 2024 5:04:07 PM org.example.ChatServer$ClientHandler run
+INFO: user2 sent a message: hi
+Oct 19, 2024 12:14:57 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent an image: /Users/suyashmishra/Desktop/Screenshot 2024-09-30 at 3.17.29 PM.png
+Oct 19, 2024 12:59:23 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent a message: jhi
+Oct 19, 2024 12:59:25 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent a message: hello
+Oct 19, 2024 1:09:30 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent a message: jo
+Oct 19, 2024 1:09:31 PM org.example.ChatServer$ClientHandler run
+INFO: user1 sent a message: jlksjlk
+Oct 22, 2024 8:55:09 AM org.example.ChatServer$ClientHandler run
+INFO: user1 sent a message: hi
+Oct 22, 2024 8:55:12 AM org.example.ChatServer$ClientHandler run
+INFO: user2 sent a message: hello

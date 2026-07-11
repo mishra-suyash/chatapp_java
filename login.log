@@ -1,0 +1,350 @@
+Oct 14, 2024 10:02:39 AM org.example.ChatServer$ClientHandler run
+WARNING: Failed login attempt for username: 'user1'.
+Oct 14, 2024 10:03:13 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 10:25:20 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 10:27:39 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 10:28:26 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 10:29:06 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user2' logged in successfully.
+Oct 14, 2024 10:31:54 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 10:32:42 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 10:35:44 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 10:37:57 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 10:44:26 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 10:46:57 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 10:47:46 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 10:48:56 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 10:49:52 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 10:50:10 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user2' logged in successfully.
+Oct 14, 2024 10:59:24 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 11:00:35 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 11:02:32 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 11:04:07 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 11:04:41 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 11:05:10 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 11:05:30 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user2' logged in successfully.
+Oct 14, 2024 11:08:34 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 11:09:19 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 11:09:37 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 11:09:55 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 11:10:06 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 11:11:45 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 11:12:03 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 11:14:49 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 11:15:02 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user2' logged in successfully.
+Oct 14, 2024 11:19:23 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 11:19:54 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user2' logged in successfully.
+Oct 14, 2024 11:25:20 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 11:25:37 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user2' logged in successfully.
+Oct 14, 2024 11:29:51 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 11:30:02 AM org.example.ChatServer$ClientHandler run
+INFO: User 'a' logged in successfully.
+Oct 14, 2024 11:30:22 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user2' logged in successfully.
+Oct 14, 2024 11:38:02 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 11:38:24 AM org.example.ChatServer$ClientHandler run
+WARNING: Failed login attempt for username: 'user1'.
+Oct 14, 2024 11:42:31 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 11:43:28 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 11:43:56 AM org.example.ChatServer$ClientHandler run
+WARNING: Failed login attempt for username: 'suyash'.
+Oct 14, 2024 11:44:01 AM org.example.ChatServer$ClientHandler run
+INFO: User 'suyash' logged in successfully.
+Oct 14, 2024 11:53:48 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 11:55:08 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 11:57:32 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 12:01:04 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 12:03:04 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 12:05:07 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 12:06:01 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 12:06:19 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 12:13:07 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 12:14:11 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 12:14:43 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 12:15:05 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 12:15:32 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 12:18:03 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 12:19:13 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 12:21:15 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 12:24:03 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 12:27:08 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 12:27:22 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 1:07:12 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 1:07:27 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user2' logged in successfully.
+Oct 14, 2024 1:09:39 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user2' logged in successfully.
+Oct 14, 2024 1:09:53 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 2:48:50 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 2:49:47 PM org.example.ChatServer$ClientHandler run
+WARNING: Failed login attempt for username: 'suyash'.
+Oct 14, 2024 2:49:52 PM org.example.ChatServer$ClientHandler run
+INFO: User 'suyash' logged in successfully.
+Oct 14, 2024 3:39:00 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 14, 2024 3:39:48 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user2' logged in successfully.
+Oct 15, 2024 3:13:53 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 15, 2024 3:17:42 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user2' logged in successfully.
+Oct 15, 2024 3:42:50 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 15, 2024 4:47:27 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 15, 2024 4:50:57 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 15, 2024 4:51:40 PM org.example.ChatServer$ClientHandler run
+WARNING: Failed login attempt for username: 'user1'.
+Oct 15, 2024 4:51:44 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user2' logged in successfully.
+Oct 16, 2024 9:48:51 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 16, 2024 10:05:33 PM org.example.ChatServer$ClientHandler run
+WARNING: Failed login attempt for username: 'user1'.
+Oct 16, 2024 10:05:55 PM org.example.ChatServer$ClientHandler run
+WARNING: Failed login attempt for username: 'user1'.
+Oct 16, 2024 10:08:40 PM org.example.ChatServer$ClientHandler run
+WARNING: Failed login attempt for username: 'user1'.
+Oct 16, 2024 10:08:43 PM org.example.ChatServer$ClientHandler run
+WARNING: Failed login attempt for username: 'user1'.
+Oct 16, 2024 10:08:46 PM org.example.ChatServer$ClientHandler run
+WARNING: Failed login attempt for username: 'user1'.
+Oct 16, 2024 10:11:41 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 17, 2024 1:39:13 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 17, 2024 1:51:46 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 17, 2024 3:19:50 PM org.example.ChatServer onMessageReceived
+INFO: User 'user1' logged in successfully.
+Oct 17, 2024 3:19:50 PM org.example.ChatServer onMessageReceived
+WARNING: MQTT: Failed login attempt for username: 'user1'.
+Oct 17, 2024 3:23:39 PM org.example.ChatServer onMessageReceived
+INFO: User 'user1' logged in successfully.
+Oct 17, 2024 3:23:39 PM org.example.ChatServer onMessageReceived
+WARNING: MQTT: Failed login attempt for username: 'user1'.
+Oct 17, 2024 3:29:07 PM org.example.ChatServer onMessageReceived
+INFO: User 'user1' logged in successfully.
+Oct 17, 2024 3:29:07 PM org.example.ChatServer onMessageReceived
+WARNING: MQTT: Failed login attempt for username: 'user1'.
+Oct 17, 2024 3:32:57 PM org.example.ChatServer onMessageReceived
+INFO: User 'user1' logged in successfully.
+Oct 17, 2024 3:32:57 PM org.example.ChatServer onMessageReceived
+WARNING: MQTT: Failed login attempt for username: 'user1'.
+Oct 17, 2024 3:35:57 PM org.example.ChatServer onMessageReceived
+INFO: User 'user1' logged in successfully.
+Oct 17, 2024 3:35:57 PM org.example.ChatServer onMessageReceived
+WARNING: MQTT: Failed login attempt for username: 'user1'.
+Oct 17, 2024 3:37:06 PM org.example.ChatServer onMessageReceived
+INFO: User 'user1' logged in successfully.
+Oct 17, 2024 3:37:06 PM org.example.ChatServer onMessageReceived
+WARNING: MQTT: Failed login attempt for username: 'user1'.
+Oct 17, 2024 3:37:31 PM org.example.ChatServer onMessageReceived
+INFO: User 'user1' logged in successfully.
+Oct 17, 2024 3:37:31 PM org.example.ChatServer onMessageReceived
+WARNING: MQTT: Failed login attempt for username: 'user1'.
+Oct 17, 2024 3:37:57 PM org.example.ChatServer onMessageReceived
+INFO: User 'user1' logged in successfully.
+Oct 17, 2024 3:37:57 PM org.example.ChatServer onMessageReceived
+WARNING: MQTT: Failed login attempt for username: 'user1'.
+Oct 17, 2024 3:38:46 PM org.example.ChatServer onMessageReceived
+INFO: User 'user1' logged in successfully.
+Oct 17, 2024 3:38:46 PM org.example.ChatServer onMessageReceived
+WARNING: MQTT: Failed login attempt for username: 'user1'.
+Oct 17, 2024 3:43:19 PM org.example.ChatServer onMessageReceived
+INFO: User 'user1' logged in successfully.
+Oct 17, 2024 3:43:19 PM org.example.ChatServer onMessageReceived
+WARNING: MQTT: Failed login attempt for username: 'user1'.
+Oct 17, 2024 4:12:24 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: User 'user1' logged in successfully.
+Oct 17, 2024 4:12:24 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+WARNING: MQTT: Failed login attempt for username: 'user1'.
+Oct 17, 2024 4:14:23 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: User 'user1' logged in successfully.
+Oct 17, 2024 4:14:23 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+WARNING: MQTT: Failed login attempt for username: 'user1'.
+Oct 17, 2024 4:19:41 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: User 'user1' logged in successfully.
+Oct 17, 2024 4:19:41 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+WARNING: MQTT: Failed login attempt for username: 'user1'.
+Oct 17, 2024 4:56:36 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 17, 2024 4:56:57 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 17, 2024 4:57:08 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 17, 2024 4:57:18 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user2' logged in successfully.
+Oct 17, 2024 4:57:37 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: User 'user1' logged in successfully.
+Oct 17, 2024 4:57:37 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+WARNING: MQTT: Failed login attempt for username: 'user1'.
+Oct 17, 2024 4:58:17 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: User 'user1' logged in successfully.
+Oct 17, 2024 4:58:17 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+WARNING: MQTT: Failed login attempt for username: 'user1'.
+Oct 17, 2024 4:59:00 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: User 'user1' logged in successfully.
+Oct 17, 2024 4:59:00 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+WARNING: MQTT: Failed login attempt for username: 'user1'.
+Oct 17, 2024 4:59:31 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: User 'user2' logged in successfully.
+Oct 17, 2024 4:59:31 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+WARNING: MQTT: Failed login attempt for username: 'user2'.
+Oct 17, 2024 5:03:05 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: User 'user1' logged in successfully.
+Oct 17, 2024 5:03:05 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+WARNING: MQTT: Failed login attempt for username: 'user1'.
+Oct 17, 2024 5:03:20 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: User 'user1' logged in successfully.
+Oct 17, 2024 5:03:20 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+WARNING: MQTT: Failed login attempt for username: 'user1'.
+Oct 17, 2024 5:03:55 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user2' logged in successfully.
+Oct 17, 2024 5:04:12 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.WY40J0ICLjJJ9eiioTro_liMJgDRTrgXg3bGqtUzScQ hi
+Oct 17, 2024 5:04:12 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.WY40J0ICLjJJ9eiioTro_liMJgDRTrgXg3bGqtUzScQ hi
+Oct 17, 2024 5:04:12 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.WY40J0ICLjJJ9eiioTro_liMJgDRTrgXg3bGqtUzScQ hi
+Oct 17, 2024 5:04:12 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.WY40J0ICLjJJ9eiioTro_liMJgDRTrgXg3bGqtUzScQ hi
+Oct 17, 2024 5:04:12 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.WY40J0ICLjJJ9eiioTro_liMJgDRTrgXg3bGqtUzScQ hi
+Oct 17, 2024 5:04:12 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.WY40J0ICLjJJ9eiioTro_liMJgDRTrgXg3bGqtUzScQ hi
+Oct 17, 2024 5:04:12 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.WY40J0ICLjJJ9eiioTro_liMJgDRTrgXg3bGqtUzScQ hi
+Oct 17, 2024 5:04:12 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.WY40J0ICLjJJ9eiioTro_liMJgDRTrgXg3bGqtUzScQ hi
+Oct 17, 2024 5:04:12 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.WY40J0ICLjJJ9eiioTro_liMJgDRTrgXg3bGqtUzScQ hi
+Oct 17, 2024 5:04:12 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.WY40J0ICLjJJ9eiioTro_liMJgDRTrgXg3bGqtUzScQ hi
+Oct 17, 2024 5:04:12 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.WY40J0ICLjJJ9eiioTro_liMJgDRTrgXg3bGqtUzScQ hi
+Oct 17, 2024 5:04:12 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.WY40J0ICLjJJ9eiioTro_liMJgDRTrgXg3bGqtUzScQ hi
+Oct 17, 2024 5:04:12 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.WY40J0ICLjJJ9eiioTro_liMJgDRTrgXg3bGqtUzScQ hi
+Oct 17, 2024 5:04:15 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.WY40J0ICLjJJ9eiioTro_liMJgDRTrgXg3bGqtUzScQ hi
+Oct 17, 2024 5:04:15 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.WY40J0ICLjJJ9eiioTro_liMJgDRTrgXg3bGqtUzScQ hi
+Oct 17, 2024 5:04:15 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.WY40J0ICLjJJ9eiioTro_liMJgDRTrgXg3bGqtUzScQ hi
+Oct 17, 2024 5:04:15 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.WY40J0ICLjJJ9eiioTro_liMJgDRTrgXg3bGqtUzScQ hi
+Oct 17, 2024 5:04:15 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.WY40J0ICLjJJ9eiioTro_liMJgDRTrgXg3bGqtUzScQ hi
+Oct 17, 2024 5:04:15 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.WY40J0ICLjJJ9eiioTro_liMJgDRTrgXg3bGqtUzScQ hi
+Oct 17, 2024 5:04:15 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.WY40J0ICLjJJ9eiioTro_liMJgDRTrgXg3bGqtUzScQ hi
+Oct 17, 2024 5:04:15 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.WY40J0ICLjJJ9eiioTro_liMJgDRTrgXg3bGqtUzScQ hi
+Oct 17, 2024 5:04:15 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.WY40J0ICLjJJ9eiioTro_liMJgDRTrgXg3bGqtUzScQ hi
+Oct 17, 2024 5:04:15 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.WY40J0ICLjJJ9eiioTro_liMJgDRTrgXg3bGqtUzScQ hi
+Oct 17, 2024 5:04:15 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.WY40J0ICLjJJ9eiioTro_liMJgDRTrgXg3bGqtUzScQ hi
+Oct 17, 2024 5:04:15 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1c2VyMSJ9.WY40J0ICLjJJ9eiioTro_liMJgDRTrgXg3bGqtUzScQ hi
+Oct 17, 2024 5:04:41 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: User 'user2' logged in successfully.
+Oct 17, 2024 5:04:41 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+WARNING: MQTT: Failed login attempt for username: 'user2'.
+Oct 17, 2024 5:05:19 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: User 'user2' logged in successfully.
+Oct 17, 2024 5:05:19 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+WARNING: MQTT: Failed login attempt for username: 'user2'.
+Oct 17, 2024 5:05:47 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: User 'user1' logged in successfully.
+Oct 17, 2024 5:05:47 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+WARNING: MQTT: Failed login attempt for username: 'user1'.
+Oct 17, 2024 5:18:08 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+INFO: User 'user1' logged in successfully.
+Oct 17, 2024 5:18:08 PM org.example.ChatServer$MQTTHandler onMessageReceived1
+WARNING: MQTT: Failed login attempt for username: 'user1'.
+Oct 19, 2024 12:14:51 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 19, 2024 12:59:17 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 19, 2024 12:59:18 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 19, 2024 1:03:10 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 19, 2024 1:03:33 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 19, 2024 1:09:27 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 19, 2024 1:10:29 PM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 19, 2024 1:28:52 PM org.example.ChatServer onMessageReceived
+WARNING: MQTT: Failed login attempt for username: 'user1'.
+Oct 22, 2024 8:54:57 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user1' logged in successfully.
+Oct 22, 2024 8:55:03 AM org.example.ChatServer$ClientHandler run
+INFO: User 'user2' logged in successfully.
