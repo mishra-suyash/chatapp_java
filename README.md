@@ -26,7 +26,7 @@ A multi-protocol desktop chat application built with Java Swing, supporting real
 ## Architecture Overview
 
 ```
-┌─────────────┐        TCP Socket (port 12345)        ┌─────────────┐
+┌─────────────┐        TCP Socket (port 12345)         ┌─────────────┐
 │ ChatClient  │ ─────────────────────────────────────► │             │
 └─────────────┘                                        │  ChatServer │
 ┌─────────────┐        MQTT (chat/broadcast topic)     │             │
